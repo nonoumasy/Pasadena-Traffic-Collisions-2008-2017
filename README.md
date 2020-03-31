@@ -20,5 +20,9 @@ https://public.tableau.com/profile/nonoumasy#!/vizhome/PasadenaTrafficCollisions
 12. Collisions happened during daylight 62% of the time followed during nighttime with street lights 19% of the time.
 13. Collisions happened during ‘Clear’ weather conditions at 72% of the time followed by ‘Cloudy’ conditions at 9% of the time.
 14. 73% of the time, the collisions involved other Motor Vehicles and 8% of the time, involved Parked Motor Vehicles.
-15. 
+15. Cross street with the most collisons: COLORADO BLVD.
+16. There were 2244 hit and runs in 2008.
+17. Between 2008-2017, there were only 2 fatal cases that involved a hit-and-run.
+18. 5% of Collisions were hit-and-runs.
+19. 
 
