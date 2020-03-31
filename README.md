@@ -6,10 +6,10 @@ https://public.tableau.com/profile/nonoumasy#!/vizhome/PasadenaTrafficCollisions
 
 # Observations
 
-1. The year with the highest number of fatalities was 2015 with 12 fatalities
-2. The year with the lowest number of fatalities was 2009 with 2 fatalities
-3. The year with highest number of injuries from collisions was 2008 with 1008 injuries.
-4. The year with the lowest number of injuries was 2016 with 606 injuries.
+1. 2015 had 12 fatalities (highest).
+2. 2009 had 2 fatalities (lowest).
+3. 2008 had 1008 injuries (highest).
+4. 2016 had 606 injuries (lowest).
 5. The number of injuries per year is trending down.
 6. The direction in which the vehicles were heading when they had the collision shows no pattern. It is a uniform distribution for North, South, West and East directions.
 7. 2.4% of the Collisions happened on a holiday.
