@@ -1,5 +1,9 @@
 # Pasadena Traffic Collisions 2008-2017
 
+Interactive Map:
+https://public.tableau.com/profile/nonoumasy#!/vizhome/PasadenaTrafficCollisions2008-2017/Dashboard
+
+
 # Observations
 
 1. The year with the highest number of fatalities was 2015 with 12 fatalities
