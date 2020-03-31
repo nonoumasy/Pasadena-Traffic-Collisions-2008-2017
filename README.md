@@ -14,7 +14,7 @@ https://public.tableau.com/profile/nonoumasy#!/vizhome/PasadenaTrafficCollisions
 6. The direction in which the vehicles were heading when they had the collision shows no pattern. It is a uniform distribution for North, South, West and East directions.
 7. 2.4% of the Collisions happened on a holiday.
 8. The most frequent cause of collision is ‘Unsafe Speed’ (18%), followed by Right of way violation(17%).
-9. The most frequent type of collision is ‘Broadside’ (39%) followed by ‘Rear-End’ (23%).
+9. The most frequent collision type is ‘Broadside’ (39%) followed by ‘Rear-End’ (23%).
 10. The most frequent type of movement is ‘Proceeding Straight’ (50%) followed by ‘Making Left Turn’ (20%).
 11. The most frequent injury type is ‘Property Damage’ (63%) followed by ‘Complaint of Pain’ (24%).
 12. Collisions happened during daylight 62% of the time followed during nighttime with street lights 19% of the time.
